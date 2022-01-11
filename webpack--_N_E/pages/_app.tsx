@@ -41,7 +41,6 @@ function App({ Component, pageProps, err }: AppProps & { err?: Error }) {
         <link rel="icon" href={require("../public/favicon.ico")} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000" />
-        <GoogleAnalytics />
       </Head>
       <Component {...pageProps} err={err} />
     </>
