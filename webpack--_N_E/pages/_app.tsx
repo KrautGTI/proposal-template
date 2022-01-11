@@ -48,28 +48,6 @@ function App({ Component, pageProps, err }: AppProps & { err?: Error }) {
   );
 }
 
-export default wrapper.withRedux(App);
-
-function GoogleAnalytics(): JSX.Element {
-  if (process.env.NEXT_PUBLIC_APP_ENV === "production") {
-    return (
-      <>
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`} />{" "}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}', {
-              page_path: window.location.pathname,
-            });
-          `,
-          }}
-        />
-      </>
-    );
-  }
   // For some reason NextJs doesn't handle null, or empty fragments in the <Head>
   return <meta></meta>;
 }
