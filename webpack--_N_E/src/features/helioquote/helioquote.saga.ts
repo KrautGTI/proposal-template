@@ -105,7 +105,7 @@ const defaultAllowedUrls = [
   "https://staging.enerflo.io",
   "https://dev.enerflo.io",
   "http://localhost:3006"
-  "https://github.com/KrautGTI/proposal-template" ,
+  "https://krautgti.github.io/proposal-template/" ,
 ];
 
 export function* helioquoteSaga({ allowedURLs = defaultAllowedUrls }: Dependencies = {}) {
