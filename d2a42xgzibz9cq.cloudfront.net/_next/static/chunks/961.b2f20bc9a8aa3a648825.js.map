@@ -960,7 +960,7 @@
                                         muted: !0,
                                         "data-autoplay": !0,
                                         children: (0, n.jsx)("source", {
-                                            "data-src": "https://d2a42xgzibz9cq.cloudfront.net/_next/static/videos/EnvironmentalImpact_798x894-09127ce4f9ba488729b897ae994dd39e.mp4",
+                                            "data-src": "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/videos/EnvironmentalImpact_798x894-09127ce4f9ba488729b897ae994dd39e.mp4",
                                             type: "video/mp4"
                                         })
                                     })
@@ -5922,7 +5922,7 @@
                         jpg: ss(),
                         webp: cs()
                     },
-                    video: "https://d2a42xgzibz9cq.cloudfront.net/_next/static/videos/EnvironmentalImpact_896-d79f241e7dce74e155037006dea34382.mp4",
+                    video: "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/videos/EnvironmentalImpact_896-d79f241e7dce74e155037006dea34382.mp4",
                     breakdown: function(e) {
                         return (0, n.jsx)(ds, {
                             className: "px-6 lg:px-14 py-32 bg-white rounded-lg shadow-xl",
@@ -15844,223 +15844,223 @@
             }
         },
         38922: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/ExampleInstallMap-218672a461ca5a573a446f721e796f2c.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/ExampleInstallMap-218672a461ca5a573a446f721e796f2c.jpg"
         },
         64011: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/ExampleInstallMap-b85efa03c297c705545275055ad42c4b.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/ExampleInstallMap-b85efa03c297c705545275055ad42c4b.webp"
         },
         63371: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-00f5d4a111fb000bb716f9711c443338.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-00f5d4a111fb000bb716f9711c443338.jpg"
         },
         36522: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3468355d7328e80e91b010d40829c164.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3468355d7328e80e91b010d40829c164.webp"
         },
         5113: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-551e676a7db46cd1ba29f3b3e6310b6c.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-551e676a7db46cd1ba29f3b3e6310b6c.jpg"
         },
         21055: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-06cc8d41693b650d15efa08a6356e717.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-06cc8d41693b650d15efa08a6356e717.webp"
         },
         91113: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a1bdc7ab866740d59cf44c39fcaa288b.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a1bdc7ab866740d59cf44c39fcaa288b.jpg"
         },
         14703: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-239d1a9b6a71ce3b5b70ce34ca0f9b6e.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-239d1a9b6a71ce3b5b70ce34ca0f9b6e.webp"
         },
         99105: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-f9f9499639abe35389d5901e8bb7dd4a.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-f9f9499639abe35389d5901e8bb7dd4a.jpg"
         },
         30889: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-0216c8c83aba1fe980c5f9585c36698a.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-0216c8c83aba1fe980c5f9585c36698a.webp"
         },
         48343: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-ae49bc62acd974484c3bcf10dc21c3fb.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-ae49bc62acd974484c3bcf10dc21c3fb.jpg"
         },
         26684: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3a2c3bdb263cca1b34a9be84e16f5ed6.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3a2c3bdb263cca1b34a9be84e16f5ed6.webp"
         },
         5674: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-4adea4692882a5cfe06d3d4bd42191a2.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-4adea4692882a5cfe06d3d4bd42191a2.jpg"
         },
         92318: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-003c65a1462a3931763373d88584c1b6.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-003c65a1462a3931763373d88584c1b6.webp"
         },
         82319: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-ec9dfa4a56a5b0445c8ee051efa1aabe.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-ec9dfa4a56a5b0445c8ee051efa1aabe.jpg"
         },
         67194: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-0f42a11813105dd2815027fc51c263e7.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-0f42a11813105dd2815027fc51c263e7.webp"
         },
         65733: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/confirmDesign-7df2a248d8c19148be54f708a2b93156.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/confirmDesign-7df2a248d8c19148be54f708a2b93156.jpg"
         },
         71374: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/confirmDesign-f906a9b221b02e497f7f7d628edd29dc.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/confirmDesign-f906a9b221b02e497f7f7d628edd29dc.webp"
         },
         20223: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/install-e60297b891741f853a43627f6d009e93.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/install-e60297b891741f853a43627f6d009e93.jpg"
         },
         22062: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/install-5f0c8861bdff283f28fa70aee028b517.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/install-5f0c8861bdff283f28fa70aee028b517.webp"
         },
         74397: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/permitting-a0910fe0f79e8f1717268e2f0f6afcf7.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/permitting-a0910fe0f79e8f1717268e2f0f6afcf7.jpg"
         },
         54564: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/permitting-ea6ff8d5734a9b576f901ac76e843b07.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/permitting-ea6ff8d5734a9b576f901ac76e843b07.webp"
         },
         63698: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/pto-0e3e8ca918d1f045768fcfc809f4f7be.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/pto-0e3e8ca918d1f045768fcfc809f4f7be.jpg"
         },
         72169: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/pto-27fdc7ebb80c0e814601d1f36b5bd430.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/pto-27fdc7ebb80c0e814601d1f36b5bd430.webp"
         },
         29382: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/siteSurvey-e0add70bc6c85943e699481f39d7f09a.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/siteSurvey-e0add70bc6c85943e699481f39d7f09a.jpg"
         },
         33726: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/siteSurvey-2beaea100563e92a1ee6b7a44cb2e4d4.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/siteSurvey-2beaea100563e92a1ee6b7a44cb2e4d4.webp"
         },
         61612: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/solarAgreement-07e4d395ee75f9be3d64f93820812d8e.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/solarAgreement-07e4d395ee75f9be3d64f93820812d8e.jpg"
         },
         92978: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/solarAgreement-33d99a41411ebe4148f32b2abd9917ac.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/solarAgreement-33d99a41411ebe4148f32b2abd9917ac.webp"
         },
         29410: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-e19069a34572667ecbb8f6668382c904.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-e19069a34572667ecbb8f6668382c904.jpg"
         },
         34582: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-6bd55f6b57c4cbc6bb4c51e59d6d957c.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-6bd55f6b57c4cbc6bb4c51e59d6d957c.webp"
         },
         86470: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3bdc682942df4622e23e06f91311d68a.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3bdc682942df4622e23e06f91311d68a.jpg"
         },
         44480: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-bc15b2908a6608f135569aad189b41e6.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-bc15b2908a6608f135569aad189b41e6.webp"
         },
         62145: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3e81d11efe0ae5d31dcecb7f011596dd.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-3e81d11efe0ae5d31dcecb7f011596dd.jpg"
         },
         67275: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a74ab9be35a2e26a6fb692e133788081.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a74ab9be35a2e26a6fb692e133788081.webp"
         },
         58586: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-d92cf13996585ed3273cd9f04c7fc0ca.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-d92cf13996585ed3273cd9f04c7fc0ca.jpg"
         },
         89534: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a8cdb963660d96bafd97fc517beb832d.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a8cdb963660d96bafd97fc517beb832d.webp"
         },
         38696: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/Panel-64b6074e2b34d35745cf5cf528deb99d.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/Panel-64b6074e2b34d35745cf5cf528deb99d.jpg"
         },
         91281: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/Panel-6f8435ee631558b2d1a7761c45c3594b.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/Panel-6f8435ee631558b2d1a7761c45c3594b.webp"
         },
         41242: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-8af8dba54bd3966993d9a464803fc36e.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-8af8dba54bd3966993d9a464803fc36e.jpg"
         },
         70369: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-320312131f1b5d7f83ad8790ed56258e.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-320312131f1b5d7f83ad8790ed56258e.webp"
         },
         6455: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-6ac5488775ac891693fc72f0088524ef.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-6ac5488775ac891693fc72f0088524ef.jpg"
         },
         71184: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-e5a0733fbec968dbb453edefdcdd3b3d.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-e5a0733fbec968dbb453edefdcdd3b3d.webp"
         },
         81527: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a83a6bb49fd478ec295b43a7ace0e77c.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a83a6bb49fd478ec295b43a7ace0e77c.jpg"
         },
         71860: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-faf8afd87df469dbc4ec21f3843a2b76.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-faf8afd87df469dbc4ec21f3843a2b76.webp"
         },
         7442: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-38874f101ad1d82b8b17a93931cc8562.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-38874f101ad1d82b8b17a93931cc8562.jpg"
         },
         25448: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-38b7af9ced1658551aa186fdb9fe15a0.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-38b7af9ced1658551aa186fdb9fe15a0.webp"
         },
         15192: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeAppeal-dcf231581c74cfcaacf2feb58bf26697.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeAppeal-dcf231581c74cfcaacf2feb58bf26697.jpg"
         },
         31756: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeAppeal-fbeb1a804ffa61fdb68eca785835e9d8.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeAppeal-fbeb1a804ffa61fdb68eca785835e9d8.webp"
         },
         61367: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--OwnYourPower-b4262884ad283c156dcdf1db79dca920.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--OwnYourPower-b4262884ad283c156dcdf1db79dca920.jpg"
         },
         94874: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--OwnYourPower-33530a068ef6ab14f5e57eda50967c61.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--OwnYourPower-33530a068ef6ab14f5e57eda50967c61.webp"
         },
         87635: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--WhatsNext-377053478a818600501593cc2e5ac377.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--WhatsNext-377053478a818600501593cc2e5ac377.jpg"
         },
         55321: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--WhatsNext-2540326eb8089ad33aa43ced7eed6663.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--WhatsNext-2540326eb8089ad33aa43ced7eed6663.webp"
         },
         51974: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-d7620c2257472a38140794674f83f340.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-d7620c2257472a38140794674f83f340.jpg"
         },
         36: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-e29c6c9f58550a16cd5b6a80bfe805bb.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-e29c6c9f58550a16cd5b6a80bfe805bb.webp"
         },
         72076: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-802fe6359e18a373577edb0f3834429e.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-802fe6359e18a373577edb0f3834429e.jpg"
         },
         9929: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-dcd472d409fc9b3989c0caef8baf9d6a.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-dcd472d409fc9b3989c0caef8baf9d6a.webp"
         },
         57703: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/TraditionalPower-a9e7f61e4317a5ae209afdfdea461de4.png"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/TraditionalPower-a9e7f61e4317a5ae209afdfdea461de4.png"
         },
         35251: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-c670a01392a4d444ee941f712ac20c93.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-c670a01392a4d444ee941f712ac20c93.jpg"
         },
         77429: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-c937fa53d276a46d20f399c5cd97a2a9.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-c937fa53d276a46d20f399c5cd97a2a9.webp"
         },
         97048: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-08debee8ba2ac7941e522349d9d32259.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-08debee8ba2ac7941e522349d9d32259.jpg"
         },
         54138: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a14d1227b92d44c9317339d1ee2294b9.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-a14d1227b92d44c9317339d1ee2294b9.webp"
         },
         81056: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-f92d9423137f40c2ed69ec82c4390e80.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-f92d9423137f40c2ed69ec82c4390e80.jpg"
         },
         80658: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-33863198fc5321a4908b385bbd027877.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-33863198fc5321a4908b385bbd027877.webp"
         },
         77666: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--EcoImpact-ebafe8a9b8854d2c44e4be8bc5d46029.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--EcoImpact-ebafe8a9b8854d2c44e4be8bc5d46029.jpg"
         },
         21507: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--EcoImpact-379af10aa571a20ee89d93d24d494dad.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--EcoImpact-379af10aa571a20ee89d93d24d494dad.webp"
         },
         425: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeValue-6d53c4bbe84099290f8c710e08a197b1.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeValue-6d53c4bbe84099290f8c710e08a197b1.jpg"
         },
         45889: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeValue-fdc598e4551fa7da81de0b0cbbd0920c.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--HomeValue-fdc598e4551fa7da81de0b0cbbd0920c.webp"
         },
         69063: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--Savings-5f187dbb085ea7d327d742a1a4fd4178.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--Savings-5f187dbb085ea7d327d742a1a4fd4178.jpg"
         },
         64158: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--Savings-6cb6de1d07819d18528a7a85a3556cb9.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--Savings-6cb6de1d07819d18528a7a85a3556cb9.webp"
         },
         39303: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--SelfReliance-df497e723635a693f8893034d15570e0.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--SelfReliance-df497e723635a693f8893034d15570e0.jpg"
         },
         85369: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--SelfReliance-751d487ef47350ef659e7248a0018f11.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/WhyChooseSolar--SelfReliance-751d487ef47350ef659e7248a0018f11.webp"
         },
         12379: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-4d63669eb3d2ed5e92a580c03be32aec.jpg"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-4d63669eb3d2ed5e92a580c03be32aec.jpg"
         },
         69011: function(e) {
-            e.exports = "https://d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-5f86724665afa13e98500d84c78cb140.webp"
+            e.exports = "/proposals/d2a42xgzibz9cq.cloudfront.net/_next/static/images/screenshot-5f86724665afa13e98500d84c78cb140.webp"
         }
     }
 ]);
