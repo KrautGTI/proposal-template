@@ -4,10 +4,10 @@ self.__BUILD_MANIFEST = {
             source: "/proposals/api/:path*",
             destination: "/api/:path*"
         }, {
-            source: "/proposals/assets/_next/static/:path*",
+            source: "/proposals/_next/static/:path*",
             destination: "/_next/static/:path*"
         }, {
-            source: "/proposals/assets/_next/webpack-hmr"
+            source: "/proposals/_next/webpack-hmr"
         }, {
             source: "/beta/proposals/:reportHash",
             destination: "/proposals/:reportHash"
